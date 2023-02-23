@@ -1,0 +1,695 @@
+
+        {
+        word: "Manong",
+            def1: "[f. Sp.], n. 1. an older brother. 2. an older man. ",
+            def2: "",
+            exam: "",
+            rel: ["ant. Manang." ]
+        }, 
+    //N//
+    {
+        word: "Nadnad",
+            def1: "v. /AG-/ to be digested.",
+            def2: "",
+            exam: "example: Saan pay nga nagnadnad ti kinnan ko. What I ate has not yet been digested. ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Naed",
+            def1: "v. /AG-/ to reside, live, dwell.",
+            def2: "",
+            exam: "",
+            rel: ["syn. Gian." ]
+        }, 
+        {
+        word: "Na",
+            def1: "interj. an exclamation expressing surprise and wonder. --var. NAY. --syn. NI.",
+            def2: "replaces MO by you (sg.) before enclitic nominative pron. -K me or KAMI us (excl.).",
+            exam: "",
+            rel: ["" ]
+        }, 
+        {
+        word:"na",
+            def1: "pron. by him or her, he or she (as actor): the agent of ISU.",
+            def2: "pron. his, her: the enclitic possessive of ISU.",
+            exam: "",
+            rel: ["" ]
+        }, 
+        {
+        word: "Naay",
+            def1: "interj. an exclamation expressing sorrow; alas!",
+            def2: "",
+            exam: "",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nagan",
+            def1: "n. name, designation, appellation.",
+            def2: "v. /AG-/ to have as name. MA--AN/ to be named as, to be  designated or appointed as. /MANG-:-EN/ to name, mention by name. ",
+            exam: "example: 1. Agnagan ti Perla diay balasang. My daughter has Pearl as her name. 2. Naganem dagiti kimmamat kenka. Name those who ran after you.  ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Naganak",
+            def1: "[cf. ANAK], n. parent, father, mother.",
+            def2: "",
+            exam: "",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nagbaetan",
+            def1: "[cf. BAET], n. the place between.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nagistay",
+            def1: "NAGISTAYAN, adv. almost, nearly.",
+            def2: "",
+            exam: "example: Nagistayan natay diay babai nga natnag idiay agdan. The woman who fell from the stairs almost died ",
+            rel: ["syn. Dandani." ]
+        }, 
+        {
+        word: "Naki",
+            def1: "pt. of MAKI-.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nakkong",
+            def1: "n. my child: an endearing term.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Naktang",
+            def1: "pt. of MAKTANG.",
+            def2: "",
+            exam: "",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nalmes",
+            def1: "pt. of MALMES.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nalpas",
+            def1: "pt. of MALPAS.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nama",
+            def1: "NAMAK PAY NO, what if, suppose.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Naman",
+            def1: "[= ANA + MAN ?] (rare), what is it? what is the matter? why?",
+            def2: "",
+            exam: "",
+            rel: ["syn. Apay man." ]
+        }, 
+        {
+        word: "nam-ay",
+            def1: "adj. /NA-/ comfortable, full of ease.",
+            def2: "v. /AG-/ to become comfortable, to be full of ease.  ",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Namnam",
+            def1: "v. /MANG-:-EN/ to taste, savor.",
+            def2: "n. taste, savor, flavor",
+            exam: "",
+            rel: ["" ]
+        }, 
+        {
+        word: "namnam",
+            def1: "adj. /NA-/ tasty, savory, flavorful.",
+            def2: "v. /MANG-:-EN/ to enjoy or relish (eating, sleeping, dancing, etc.)",
+            exam: "example: Umadanin ti paskua. Christmas is approaching. ",
+            rel: ["syn. Asideg","var. Addani" ]
+        }, 
+        {
+        word: "Nang-",
+            def1: " pt. of MANG-.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nangan",
+            def1: "pt. of MANGAN.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nangaldaw",
+            def1: "pt. of MANGALDAW",
+            def2: "",
+            exam: "",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nangrabii",
+            def1: "pt. of MANGRABII.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Narkotiko",
+            def1: "[f. Sp.], n. narcotic.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Narnar",
+            def1: "v. /MANG-:-EN/ to separate the flesh (especially of small clams) from the shell by boiling.",
+            def2: "",
+            exam: "",
+            rel: ["" ]
+        }, 
+        {
+        word: "Narra",
+            def1: "n. a tall leguminous tree (Pterocarpus sp.).",
+            def2: "",
+            exam: "  ",
+            rel: [" " ]
+        }, 
+        {
+        word: "Nars",
+            def1: "[f. Eng.], n. nurse. ",
+            def2: "",
+            exam: "",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nasakit",
+            def1: "[cf. SAKIT], n. sickness, illness, disease.",
+            def2: "",
+            exam: "example: Ania ti nasakit mo? What is your sickness? ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nasanger",
+            def1: "[cf. SANGER], n. strong wine.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nasion",
+            def1: "[f. Sp.], n. nation.",
+            def2: "",
+            exam: " ",
+            rel: [" " ]
+        }, 
+        {
+        word: "Nasnas",
+            def1: " v. /MANG-:-AN/ to wipe or polish with a piece of cloth or rag. ",
+            def2: "",
+            exam: "example: Ninasnasan na ti datar ti balay. He polished with a piece of cloth the floor of the house. ",
+            rel: [" " ]
+        }, 
+        {
+        word: "Nataengan",
+            def1: "[cf. TAENG], n. an adult, a grown-up or mature person.",
+            def2: "",
+            exam: "  ",
+            rel: [" " ]
+        }, 
+        {
+        word: "Natay",
+            def1: "1. pt. of MATAY. 2. the dead.",
+            def2: "",
+            exam: " ",
+            rel: [" " ]
+        }, 
+        {
+        word: "Nateng",
+            def1: "n. vegetable.",
+            def2: "v. /MANG-:-EN/ to gather or harvest (vegetables).",
+            exam: "",
+            rel: ["" ]
+        }, 
+        {
+        word: "Natural",
+            def1: "[f. Sp.], adj. natural, not artificial; inborn. ",
+            def2: "n. nature, inborn character.",
+            exam: "",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nawnaw",
+            def1: "v. /MANG-:-EN/ to dilute, prepare a liquid formula.",
+            def2: "",
+            exam: "example: Mangnawnaw ka ti gatas diay ubing. Prepare a milk formula for the child. ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nay",
+            def1: "Mangnawnaw ka ti gatas diay ubing. Prepare a milk formula for the child.",
+            def2: "",
+            exam: "example: Bumallasiw ka dita nay alad. Cross over that fence there. ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nayat",
+            def1: "pt. of MAYAT.",
+            def2: "",
+            exam: " ",
+            rel: [" " ]
+        }, 
+        {
+        word: "Naynay",
+            def1: "adv. repeatedly, continuously, again and again.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ne",
+            def1: " interj. oh, but. Ne, apay ngay? Oh, but why?",
+            def2: "",
+            exam: "",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nebneb",
+            def1: "v. /MANGI-: I-/ to push or drive in deeply, to cause to sink deeply.  /MAI-/ to be pushed or driven deeply. ",
+            def2: "",
+            exam: "example: Saan mo nga inebneb dayta lansa dita kayo. Don’t drive that nail deeply in the wood.",
+            rel: ["" ]
+        }, 
+        {
+        word: "Negotiante",
+            def1: "[nεgosiantε; f. Sp.], n. merchant.",
+            def2: "",
+            exam: "",
+            rel: ["" ]
+        }, 
+        {
+        word: "Negosio",
+            def1: "[nεgosiantε; f. Sp.], n. merchant.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Negra",
+            def1: "[nεgra; f. Sp.], n. a female Negro.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Negrito",
+            def1: "[nεgrito; f. Sp.], n. a Negrito.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Negro",
+            def1: "[nεgro; f. Sp.], n. a Negro.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nem",
+            def1: "var. of INNEM, six: used only with certain prefixes. MAIKANEM or MAYKANEM, sixth; SAGNENEM, six each.",
+            def2: "",
+            exam: " ",
+            rel: [" " ]
+        }, 
+        {
+        word: "Nengneng",
+            def1: "adj. /NA-/ dull, stupid, dumb.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nepnep",
+            def1: "n. a continuous fall of rain.",
+            def2: "v. /AG-/ to rain steadily for days.",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nerbiosa",
+            def1: "[nεrbiosa; f. Sp.], adj. becoming nervous easily: used only for women.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nerbioso",
+            def1: "[nεrbioso; f. Sp.], adj. becoming nervous easily.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ners",
+            def1: "var. of NARS.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nikel",
+            def1: " [f. Eng.?], n. five centavos.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Niog",
+            def1: "n. 1. coconut palm or tree. 2. its fruit.",
+            def2: "",
+            exam: " ",
+            rel: ["var. Inyog." ]
+        }, 
+        {
+        word: "Nipa",
+            def1: " n. nipa.",
+            def2: "",
+            exam: "",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nisnis",
+            def1: "n. a piece of cloth used principally for wiping or for holding hot pots and pans; rag.",
+            def2: "",
+            exam: "  ",
+            rel: [" " ]
+        }, 
+        {
+        word: "Nitso",
+            def1: "[f. Sp.], n. tomb, niche.",
+            def2: "",
+            exam: " ",
+            rel: ["syn. Panteong." ]
+        }, 
+        {
+        word: "No",
+            def1: "v. /-UM-/ [prp. UM-UMNO] to be proper, correct, right.",
+            def2: "conj. if.",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nobela",
+            def1: " [nobεla; f. Sp.], n. novel.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nobelista",
+            def1: "[nobεlista; f. Sp.], n. novelist",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nobia",
+            def1: "[f. Sp.], n. female sweetheart, fiancee.",
+            def2: "",
+            exam: " ",
+            rel: ["ant. Nobio." ]
+        }, 
+        {
+        word: "Nobiembre",
+            def1: "[nobiεmbrε; f. Sp.], n. November.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nobio",
+            def1: "[f. Sp.], n. male sweetheart, fiance.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Agnobio",
+            def1: "n.pl. sweethearts.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nominasion",
+            def1: "[f. Sp.], n, nomination.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nopay",
+            def1: "granted that, even if",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Notario",
+            def1: "[f. Sp.], n. notary public.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nowtbuk",
+            def1: "[f. Eng.], n. notebook.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nuang",
+            def1: "n. water buffalo, carabao.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nuebe",
+            def1: "[nuεbε; f. Sp.], num. nine; 9.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nugot",
+            def1: "v. /MANGI-: I-/ to apportion, distribute proportionally, allocate. /MAI-/ to be distributed proportionally",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nungnung",
+            def1: "v. /MANG-:-AN/ to shower with favors.",
+            def2: "",
+            exam: "example: Diay inauna nga anak na ti nunnungnungan na. She showers favors on her eldest child.",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nurnor",
+            def1: "v. /MANG-:-EN/ to do or follow unswervingly.",
+            def2: "",
+            exam: "example: Nurnoren tayo daytoy dalan nga agpadaya. Let us follow unswervingly this road that goes to the east.",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nutnot",
+            def1: "v. /AG-/ to suck one’s thumb. /MANG-:-EN/ to suck (the thumb).",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngabit",
+            def1: "NGANGABIT, v. /AG-/ to be on the verge of, close to.",
+            def2: "",
+            exam: "example: Agngangabit ken patay diay lakay. The old man is on the verge of death. ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngad",
+            def1: "var. of NGARUD.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngadal",
+            def1: "v. /AG-/ to have difficulty in speaking or pronouncing.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngadas",
+            def1: "n. 1. the palate. 2. the concave side of a pot, jar. etc.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngalangal",
+            def1: "v. /MA-/ to open again: said of wounds that have closed; to be dislocated again: said of dislocated bones that have been set.",
+            def2: "v. /AG-, MANG-:-EN/ to chew, masticate. ",
+            exam: "example: Ngalngalem nga nalaing dayta kanem. Chew well what you are eating.",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngalay",
+            def1: "AGNGALAY, n. middle (of).",
+            def2: "",
+            exam: "example: Agngalay manen ti Abril. It’s the middle of April again. ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngaman",
+            def1: "(literary), inter. why.",
+            def2: "",
+            exam: " ",
+            rel: ["syn. Apay." ]
+        }, 
+        {
+        word: "Ngamin",
+            def1: "adv. a particle that expresses mild reproof or censure.",
+            def2: "",
+            exam: "example: Apay ngamin sumurot-surot ka. Why do you always tag along? ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nganga",
+            def1: "v. /AG-/ to open one’s mouth. /MANGI-: I-/ to open (the mouth).",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Nakanganga",
+            def1: " adj. with mouth open, agape.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngarasngas",
+            def1: "adj. /NA-/ brittle, crunchy",
+            def2: "v. /-UM-/ to make a crunchy sound. ",
+            exam: "example: Ngumarasngas diay kalding. The goat makes a crunchy sound. ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngaretnget",
+            def1: "v. /AG-/ to grit or gnash the teeth.",
+            def2: "",
+            exam: "example: Agngaretnget nga maturog ni Pedro. Peter gnashes his teeth as he sleeps. ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngariet",
+            def1: "/AG-/ to bite one’s teeth.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngarud",
+            def1: "adv. 1. expresses confirmation, affirmation, or acquiescence. 2. expresses an alternative.",
+            def2: "",
+            exam: "example: 1. Adda ngarud diay padi idiay balay. The priest is indeed in our house. 2. Inka ngarud saludsuden diay padi no di nak nga patien. Go therefore as the priest if you don’t believe me. ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngata",
+            def1: "adv. perhaps, maybe.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngay",
+            def1: "adv. an interrogative particle with the meaning: please tell me.",
+            def2: "",
+            exam: "example: Napanan na ngay? Where did he go, please tell me. ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngayed",
+            def1: "adj. /NA-/ grand, elegant.",
+            def2: "",
+            exam: "example: Nagayed diay parada da. Their parade was elegant. ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngednged",
+            def1: "v. /MANG-:-AN/ to make (a string, rope, etc.) shorter.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngelngel",
+            def1: "adj. blunt, not sharp.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngem",
+            def1: "conj. but. ",
+            def2: "prep. than.",
+            exam: "example: 1. Sadut ngem nabaknang. She is lazy but rich. 2. Napinpintasak ngem sika. I am more beautiful than you. ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngernger",
+            def1: "v. /AG-/ to growl, snarl, gnarl. /MANG-:-AN/ to growl or snarl at.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngetgnet",
+            def1: "v. /MANG-:-EN/ to gnaw, tear off with the teeth.",
+            def2: "",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngiaw",
+            def1: "n. mew.",
+            def2: "v. /AG-/ to mew",
+            exam: " ",
+            rel: ["" ]
+        }, 
+        {
+        word: "Ngilangil",
+            def1: "v. /AG-/ to shake one’s head.",
+            def2: "",
+            exam: "example: Nagngilangil diay maestra. The lady teacher shook her head. ",
+            rel: ["" ]
+        }, 

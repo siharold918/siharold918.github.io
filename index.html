@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<!-- Created By CodingNepal -->
+<html lang="en" dir="ltr">
+   <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta charset="utf-8">
+      <title>Agadalin</title>
+      <link rel="shortcut icon" href="./pict/Icon.png">
+      <link rel="stylesheet" href="./css/style.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+   </head>
+   <body>
+    
+      <div class="wrapper">
+         <input type="checkbox" id="btn" hidden>
+         <label for="btn" class="menu-btn">
+         <i class="fas fa-bars"></i>
+         <i class="fas fa-times"></i>
+         </label>
+         <nav id="sidebar">
+            <div class="title">
+               Agadalin
+            </div>
+            <ul class="list-items">
+               <li><a href="index.html"><i class="fas fa-home"></i>Home</a></li>
+               <li><a href="about.html"><i class="fas fa-sliders-h"></i>About us</a></li>
+               <li><a href="Dictionary.html"><i class="fas fa-book"></i>Dictionary</a></li>
+               <li><a href="Translator.html"><i class="fas fa-language"></i>Translator</a></li>
+              
+              
+            </ul>
+         </nav>
+      </div>
+      <div class="left-section">
+         <div id="center-content1">
+            <div class="img-slider">
+               <div class="slide active">
+                 <img src="./pict/ag.jpg" alt="">
+                 <div class="info">
+                   <h2>Agadalin</h2>
+                   <p>Agadalin provide a dictionary and a translator for people who wants to learn the Ilocano language.</p>
+                 </div>
+               </div>
+               <div class="slide">
+                 <img src="./pict/agg.png" alt="">
+                 <div class="info">
+                   <h2>Discover the Ilocano Culture and Tradition</h2>
+                   <p>by learning the language you will appreciate the beautiful culture and tradition of Ilocano.</p>
+                 </div>
+               </div>
+               <div class="slide">
+                 <img src="./pict/aggg.png" alt="">
+                 <div class="info">
+                   <h2>Discover the Ilocano cuisine</h2>
+                   <p>The Ilocano people have a variety of delicious foods that you should try and that will satisfy you.</p>
+                 </div>
+               </div>
+               <div class="slide">
+                 <img src="./pict/agggg.png" alt="">
+                 <div class="info">
+                   <h2>Discover the tourist attractions</h2>
+                   <p>by learning the language you can connect to the locals and talk about the wonderful stories of the places that you want to visit.</p>
+                 </div>
+               </div>
+               <div class="slide">
+                 <img src="./pict/aaaaaaa.jpg" alt="">
+                 <div class="info">
+                   <h2>Discover Ilocano Words</h2>
+                   <p>Learn and discover Ilocano words .</p>
+                 </div>
+               </div>
+               <div class="navigation">
+                 <div class="btn active"></div>
+                 <div class="btn"></div>
+                 <div class="btn"></div>
+                 <div class="btn"></div>
+                 <div class="btn"></div>
+               </div>
+             </div>
+         </div>
+        </div>
+         
+        <div class="right-section">
+          <div class="container">
+            <div class="content">
+              <h1>Start Learning Ilocano Today!</h1>
+            <div>
+
+              <div class="button-container">
+            <a href="Dictionary.html">
+              <button type="button"><span></span>Dictionary</button>
+              </a>
+
+              <a href="Translator.html">
+                <button type="button"><span></span>Translator</button>
+                </a>
+              </div>
+
+              <a href="./apk/Agadalin.apk" download>
+                <button class="download-btn">
+                  <i class="fa fa-download"></i>
+                  <span>Download Mobile App</span>
+                </button>
+              </a>
+          
+            </div>
+         </div>
+        <div>
+     
+  
+        <script src="./js/script.js"></script>
+
+     <script type="text/javascript">
+      var slides = document.querySelectorAll('.slide');
+      var btns = document.querySelectorAll('.btn');
+      let currentSlide = 1;
+  
+      var manualNav = function(manual){
+        slides.forEach((slide) => {
+          slide.classList.remove('active');
+  
+          btns.forEach((btn) => {
+            btn.classList.remove('active');
+          });
+        });
+  
+        slides[manual].classList.add('active');
+        btns[manual].classList.add('active');
+      }
+  
+      btns.forEach((btn, i) => {
+        btn.addEventListener("click", () => {
+          manualNav(i);
+          currentSlide = i;
+        });
+      });
+  
+      var repeat = function(activeClass){
+        let active = document.getElementsByClassName('active');
+        let i = 1;
+  
+        var repeater = () => {
+          setTimeout(function(){
+            [...active].forEach((activeSlide) => {
+              activeSlide.classList.remove('active');
+            });
+  
+          slides[i].classList.add('active');
+          btns[i].classList.add('active');
+          i++;
+  
+          if(slides.length == i){
+            i = 0;
+          }
+          if(i >= slides.length){
+            return;
+          }
+          repeater();
+        }, 10000);
+        }
+        repeater();
+      }
+      repeat();
+      </script>
+
+
+   </body>
+</html>

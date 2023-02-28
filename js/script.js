@@ -153,7 +153,7 @@ var outputtextt = document.getElementById("output-text");
     outputtextt.select();
 
     try {
-      var successful = document.execCommand('copy');
+      var successful = Document.execCommand('copy');
       var msg = successful ? 'successful' : 'unsuccessful';
       console.log('Fallback: Copying text command was ' + msg);
     } catch (err) {
